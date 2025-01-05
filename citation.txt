@@ -1,0 +1,6 @@
+@misc{REPO278,
+    author = "Mirzadeh, Iman and Alizadeh, Keivan and Shahrokhi, Hooman and Tuzel, Oncel and Bengio, Samy and Farajtabar, Mehrdad",
+    title = "{GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models}",
+    url = "https://arxiv.org/abs/2410.05229",
+    year = "2024"
+}
